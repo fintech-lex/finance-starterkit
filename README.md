@@ -9,10 +9,6 @@ To ensure the rpuation of this project in the newly emerging FinTech world, we w
 
 To enhance our ability to deliver, we have developed interactive visualizations and educational content to accomplish our group's ultimate goal to promote  financial literacy among underprivileged and minority communities.
 
-## Sources
-
-TBD or TBA
-
 ## Recognition and Special Thanks to:
 
 Pikachu
