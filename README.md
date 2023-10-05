@@ -12,3 +12,13 @@ To enhance our ability to deliver, we have developed interactive visualizations 
 ## Recognition and Special Thanks to:
 
 Pikachu
+
+## Appendix & Sources:
+
+Kaggle - Inequality in Income Across the Globe - https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-income-across-the-globe/
+
+Morningstar, Inc.Morningstar, Inc. - 11 Charts Examining the Racial Wealth Gap - https://www.morningstar.com/specials/11-charts-examining-the-racial-wealth-gap
+
+US Census -  Race and Economic Opportunity Data Tables - https://www.census.gov/programs-surveys/ces/data/public-use-data/race-and-economic-opportunity-data-tables.html
+
+Federal Reserve - National Rates and Rate Caps - https://www.fdic.gov/resources/bankers/national-rates/index.html
